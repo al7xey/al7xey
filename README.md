@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Анимированный заголовок -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+создавать+интерактивные+интерфейсы" alt="Анимированный заголовок" />
+<!-- Заголовок с фиксированной анимацией -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+создавать+интерактивные+интерфейсы" alt="Привет, я Алексей" />
 
 <!-- Социальные сети -->
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ваш_ник)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ваш_логин)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](ваша_ссылка)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/alexsemen0v)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk)](https://m.vk.com/alexsemen0v)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:alexsem737@ya.ru)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/al7xey)
 
 </div>
 
@@ -15,59 +16,55 @@
 ### 🛠 Мой стек технологий:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 ---
 
 ### 🎓 Образование:
-- **РТУ МИРЭА** (Фронтенд-разработка)
-- Курсы:
-  - Яндекс Практикум (Frontend-разработчик)
-  - RS School (JavaScript/Frontend)
+- **РТУ МИРЭА**, Fullstack-разработка
+- **Яндекс Практикум**, Frontend-разработчик
 
 ---
 
 ### 💼 Опыт:
-- **Личный куратор** в онлайн-школе (преподавание и менторство)
+- **Личный куратор** в онлайн-школе (подготовка к ЕГЭ)
 - **Фриланс-проекты** (верстка лендингов)
 
 ---
 
-### 🏆 Мои лучшие проекты:
-1. [Клон Trello (React + Firebase)](https://github.com/ваш_логин/trello-clone) - Канбан-доска с drag-and-drop
-2. [Интернет-магазин (JavaScript)](https://github.com/ваш_логин/e-commerce) - Фильтрация товаров, корзина
-3. [Игра "Memory Card"](https://github.com/ваш_логин/memory-game) - Игра на запоминание карточек
+### 🏆 Мои проекты:
+1. [Проект 1](https://github.com/al7xey/) - Краткое описание
+2. [Проект 2](https://github.com/al7xey/) - Краткое описание
+3. [Проект 3](https://github.com/al7xey/) - Краткое описание
 
 ---
 
-### 📈 Статистика:
+### 📈 GitHub статистика:
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al7xey&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al7xey&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-### 🎵 Когда не пишу код:
-- Пою в камерном хоре 🎤
-- Занимаюсь в тренажерном зале 🏋️
-- Читаю книги по UX/UI дизайну 📚
+### 🎵 Вне разработки:
+- Участник камерного хора 🎤
+- Увлекаюсь силовыми тренировками 🏋️
+- Преподаю и помогаю другим в обучении 📚
 
 ---
 
-### 📫 Как связаться:
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- Email: ваш@email.com
-- LinkedIn: [ваше_имя](ваша_ссылка)
+### 📫 Контакты:
+- Telegram: [@alexsemen0v](https://t.me/alexsemen0v)
+- Email: [alexsem737@ya.ru](mailto:alexsem737@ya.ru)
+- VK: [alexsemen0v](https://m.vk.com/alexsemen0v)
 
 <div align="center">
   
-[![Visits](https://komarev.com/ghpvc/?username=ваш_логин&color=blueviolet)](https://github.com/ваш_логин)
+[![Visits](https://komarev.com/ghpvc/?username=al7xey&color=blueviolet&label=Profile+Views)](https://github.com/al7xey)
 
 </div>

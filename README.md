@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Заголовок с фиксированной анимацией -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+создавать+интерактивные+интерфейсы" alt="Привет, я Алексей" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+творить" alt="Привет, я Алексей" />
 
 <!-- Социальные сети -->
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/alexsemen0v)

@@ -15,26 +15,29 @@
 
 ### 🎨 Мой стек технологий:
 <div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" title="React"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
 </div>
 
 ---
 
 ### 🎓 Образование:
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <div>
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-university-education-flaticons-lineal-color-flat-icons.png" width="40" alt="University"/>
-    <p><b>РТУ МИРЭА</b><br>Fullstack-разработка</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/yandex.png" width="40" alt="Yandex"/>
-    <p><b>Яндекс Практикум</b><br>Frontend-разработчик</p>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  
+<div>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-university-education-flaticons-lineal-color-flat-icons.png" width="40" alt="University"/>
+  <p><b>РТУ МИРЭА</b><br>Fullstack-разработка</p>
+</div>
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/yandex.png" width="40" alt="Yandex"/>
+  <p><b>Яндекс Практикум</b><br>Frontend-разработчик</p>
+</div>
+
 </div>
 
 ---
@@ -42,12 +45,7 @@
 ### 💡 Что я могу предложить:
 ```javascript
 const mySkills = {
-  code: ["Чистый код", "Адаптивная верстка", "React-компоненты", "Python-скрипты"],
+  code: ["Python", "JavaScript", "React", "Адаптивная верстка"],
   softSkills: ["Менторство", "Работа в команде", "Креативность"],
   hobbies: ["Хоровое пение", "Фитнес", "Преподавание"]
 };
-
-🎵 Вне разработки:
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <div> <img src="https://img.icons8.com/fluency/48/000000/choir.png" width="40" alt="Choir"/> <p>Хоровое пение</p> </div> <div> <img src="https://img.icons8.com/color/48/000000/fitness.png" width="40" alt="Fitness"/> <p>Силовые тренировки</p> </div> <div> <img src="https://img.icons8.com/color/48/000000/teaching.png" width="40" alt="Teaching"/> <p>Преподавание</p> </div> </div>
-📬 Как связаться:
-<div align="center"> [<img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="50" alt="Telegram"/>](https://t.me/alexsemen0v) [<img src="https://img.icons8.com/color/96/000000/gmail.png" width="50" alt="Email"/>](mailto:alexsem737@ya.ru) [<img src="https://img.icons8.com/color/96/000000/vk-com.png" width="50" alt="VK"/>](https://m.vk.com/alexsemen0v) </div><div align="center" style="margin-top: 20px;"> [![Visits](https://komarev.com/ghpvc/?username=al7xey&color=blueviolet&label=Посетителей+профиля)](https://github.com/al7xey) </div> 

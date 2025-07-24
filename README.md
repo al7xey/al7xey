@@ -29,12 +29,10 @@
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
   
 <div>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-university-education-flaticons-lineal-color-flat-icons.png" width="40" alt="University"/>
   <p><b>РТУ МИРЭА</b><br>Fullstack-разработка</p>
 </div>
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/yandex.png" width="40" alt="Yandex"/>
   <p><b>Яндекс Практикум</b><br>Frontend-разработчик</p>
 </div>
 

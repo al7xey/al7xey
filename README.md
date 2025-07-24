@@ -1,70 +1,54 @@
 <div align="center">
 
-<!-- Заголовок с фиксированной анимацией -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+творить" alt="Привет, я Алексей" />
+<!-- Анимированный заголовок -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3F7&center=true&width=500&lines=Привет,+я+Алексей+👋;Фронтенд-разработчик+из+Москвы;Студент+РТУ+МИРЭА;Люблю+творить+код+и+музыку" alt="Привет, я Алексей" />
 
-<!-- Социальные сети -->
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/alexsemen0v)
-[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk)](https://m.vk.com/alexsemen0v)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:alexsem737@ya.ru)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/al7xey)
+<!-- Стильные значки соцсетей -->
+[<img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" alt="Telegram"/>](https://t.me/alexsemen0v)
+[<img src="https://img.icons8.com/color/48/000000/vk-com.png" width="40" alt="VK"/>](https://m.vk.com/alexsemen0v)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email"/>](mailto:alexsem737@ya.ru)
+[<img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" alt="GitHub"/>](https://github.com/al7xey)
 
 </div>
 
 ---
 
-### 🛠 Мой стек технологий:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+### 🎨 Мой стек технологий:
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+</div>
+
+---
+
+### 🌱 Сейчас изучаю:
+| Технология | Статус |
+|------------|--------|
+| TypeScript | 🟢 Активно осваиваю |
+| Redux Toolkit | 🟡 В планах |
+| Unit-тесты | 🟡 В планах |
 
 ---
 
 ### 🎓 Образование:
-- **РТУ МИРЭА**, Fullstack-разработка
-- **Яндекс Практикум**, Frontend-разработчик
-
----
-
-### 💼 Опыт:
-- **Менторство** в онлайн-школе 
-- **Фриланс-проекты** (верстка лендингов)
-
----
-
-### 🏆 Мои проекты:
-1. [Проект 1](https://github.com/al7xey/) - Краткое описание
-2. [Проект 2](https://github.com/al7xey/) - Краткое описание
-3. [Проект 3](https://github.com/al7xey/) - Краткое описание
-
----
-
-### 📈 GitHub статистика:
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al7xey&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al7xey&layout=compact&theme=radical)
+| Учреждение | Программа | Год |
+|------------|-----------|-----|
+| РТУ МИРЭА | Fullstack-разработка | 2023-н.в. |
+| Яндекс Практикум | Frontend-разработчик | 2022 |
 
 </div>
 
 ---
 
-### 🎵 Вне разработки:
-- Участник камерного хора 🎤
-- Увлекаюсь силовыми тренировками 🏋️
-- Преподаю и помогаю другим в обучении 📚
-
----
-
-### 📫 Контакты:
-- Telegram: [@alexsemen0v](https://t.me/alexsemen0v)
-- Email: [alexsem737@ya.ru](mailto:alexsem737@ya.ru)
-- VK: [alexsemen0v](https://m.vk.com/alexsemen0v)
-
-<div align="center">
-  
-[![Visits](https://komarev.com/ghpvc/?username=al7xey&color=blueviolet&label=Profile+Views)](https://github.com/al7xey)
-
-</div>
+### 💡 Что я могу предложить:
+```javascript
+const mySkills = {
+  code: ["Чистый код", "Адаптивная верстка", "React-компоненты"],
+  softSkills: ["Менторство", "Работа в команде", "Креативность"],
+  hobbies: ["Хоровое пение", "Фитнес", "Преподавание"]
+};

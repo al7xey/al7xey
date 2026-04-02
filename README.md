@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-1D3557?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-2C2C54?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-  <img src="https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
   <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 

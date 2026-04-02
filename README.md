@@ -1,7 +1,6 @@
 <h1 align="center">
   Привет, я <a href="https://t.me/alexsemen0v">Алексей</a> 👋
 </h1>
-
 <h3 align="center">Frontend-разработчик из Москвы</h3>
 
 

@@ -1,8 +1,11 @@
-<h1 align="center">Привет, я Алексей 👋</h1>
+<h1 align="center">
+  <a href="https://t.me/alexsemen0v">Алексей</a> 👋
+</h1>
+
 <h3 align="center">Frontend-разработчик из Москвы</h3>
 
 <p align="center">
-  <a href="https://t.me/alexsemen0v">Telegram</a>
+  Создаю современные веб-приложения с упором на архитектуру, производительность и качественный UX
 </p>
 
 ---
@@ -10,23 +13,43 @@
 ## Обо мне
 
 Я frontend-разработчик из Москвы.  
-Образование: **РТУ МИРЭА** по направлению **Fullstack-разработка**.  
-Развиваюсь в создании современных веб-приложений с упором на чистую архитектуру, понятный код и качественный пользовательский опыт.
+Образование: **РТУ МИРЭА**, направление **Fullstack-разработка**.  
+Фокусируюсь на создании современных интерфейсов, чистой архитектуре, масштабируемом коде и высоком качестве пользовательского опыта.
 
-## Стек
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS / SCSS
-- Git / GitHub
-- Vite
-- Webpack
-- ESLint
-- Prettier
-- Figma
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1E4D8C?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Redux Toolkit-4B2E83?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-3E2C23?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-1D4ED8?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer Motion-111827?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SCSS-1F2937?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Vite-2A2A72?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Webpack-1F2937?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+  <img src="https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Express-202020?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1D3557?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0B1F33?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-2C2C54?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+  <img src="https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
 
 
 <p align="center">
-  Люблю делать современные, аккуратные и удобные интерфейсы.
+  Люблю создавать быстрые, аккуратные и визуально сильные интерфейсы
 </p>

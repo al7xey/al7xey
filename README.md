@@ -12,5 +12,5 @@
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vite,webpack,git,github,figma,bash,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vite,webpack,git,github,figma,bash" />
 </p>
